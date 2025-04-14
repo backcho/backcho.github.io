@@ -1,0 +1,31 @@
+title: PHP 기초부터 실전까지
+description: PHP 초보자를 위한 체계적인 학습 가이드
+theme: jekyll-theme-cayman
+lang: ko
+
+# 사이트 정보
+author: 당신의 이름
+github_username: your-username
+
+# 네비게이션 메뉴 설정
+nav_links:
+  - title: 홈
+    url: /
+  - title: 강의 목차
+    url: /php_curriculum
+  - title: 예제 코드
+    url: /examples
+  - title: 실습 과제
+    url: /exercises
+  - title: 문의하기
+    url: /contact
+
+# 소셜 미디어 링크
+social_links:
+  - platform: github
+    url: https://github.com/your-username/your-repo
+  - platform: twitter
+    url: https://twitter.com/your-username
+
+# 구글 애널리틱스 설정 (선택사항)
+# google_analytics: UA-XXXXXXXXX-X
